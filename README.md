@@ -2,6 +2,8 @@
 
 ![Project Banner](images/test.jpg)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_PhZgaRBGWn3Sp-s_4PP8KP5NSdGpU42?usp=sharing)
+
 A comprehensive computer vision project demonstrating fundamental image processing techniques using OpenCV and Python. This project showcases the complete pipeline from color image input to grayscale conversion and binary thresholding, providing a solid foundation for understanding digital image processing concepts.
 
 ## 🚀 Project Overview
@@ -216,7 +218,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
